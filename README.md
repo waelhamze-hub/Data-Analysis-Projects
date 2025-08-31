@@ -24,7 +24,6 @@ The goal is to understand which majors offer the highest earnings, the most stab
   - `Mid-Career 90th Percentile Salary`
   - `Group` (broad field of study)
 
-👉 Note: This dataset includes only **10th and 90th percentile salaries** (no 25th/75th percentiles in this version).
 
 ---
 
